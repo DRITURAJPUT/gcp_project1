@@ -1,0 +1,14 @@
+2022-07-05 22:04:30,019 - pcm.log - INFO - dataframe created
+2022-07-05 22:04:30,197 - pcm.log - INFO - special char validation
+2022-07-05 22:04:30,197 - pcm.log - INFO - email validation
+2022-07-05 22:04:30,297 - pcm.log - INFO - mobile validation
+2022-07-05 22:04:31,938 - pcm.log - INFO - bad data
+2022-07-05 22:04:32,461 - pcm.log - INFO - bad data write
+2022-07-05 22:04:32,639 - pcm.log - INFO - good data write
+2022-07-05 22:08:04,334 - pcm.log - INFO - dataframe created
+2022-07-05 22:08:04,476 - pcm.log - INFO - special char validation
+2022-07-05 22:08:04,492 - pcm.log - INFO - email validation
+2022-07-05 22:08:04,585 - pcm.log - INFO - mobile validation
+2022-07-05 22:08:06,056 - pcm.log - INFO - bad data
+2022-07-05 22:08:06,505 - pcm.log - INFO - bad data write
+2022-07-05 22:08:06,706 - pcm.log - INFO - good data write
